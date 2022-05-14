@@ -6,12 +6,12 @@ module.exports=[
     "monto": 15.00,
     "fecha": "2021-12-27" ,
     "nro_tarjeta_propia": 4546857418565565,
-    "nro_tarjeta_ajena": 5595345899897125
+    "nro_tarjeta_ajena": 4858669658871578
   }, {
     //"id_transaccion": 2,
     "operacion": "retiro",
-    "monto": 12.00,
-    "fecha": "2021-12-30" ,
+    "monto": 15.00,
+    "fecha": "2021-12-27"  ,
     "nro_tarjeta_propia": 4858669658871578,
     "nro_tarjeta_ajena": 4546857418565565
   }]
