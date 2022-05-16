@@ -8,7 +8,7 @@ var indexRouter = require('./routes/index');
 var loginRouter = require('./routes/login');
 var usersRouter = require('./routes/users');
 
-require('dotenv').config();
+//require('dotenv').config();
 //const port = process.env.port || 3000;
 
 var app = express();
